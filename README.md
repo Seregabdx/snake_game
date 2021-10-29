@@ -1,4 +1,3 @@
-# snake_game_v1.0
 
 <h1>The Snake game version 1.0.</h1>
 
